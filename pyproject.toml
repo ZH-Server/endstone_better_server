@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "endstone-better-server"
-version = "0.0.1"
+version = "0.1.0"
 dependencies = []
 authors = [
     { name = "Huang FTS427", email = "FTS427@outlook.com" },
@@ -18,4 +18,4 @@ keywords = ["endstone", "plugin"]
 Homepage = "https://github.com/https://github.com/ZH-Server/endstone_better_server"
 
 [project.entry-points."endstone"]
-endstone-better-server = "endstone_better_server:BetterServer"
+better-server = "endstone_better_server:BetterServer"

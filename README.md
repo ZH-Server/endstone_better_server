@@ -1,3 +1,3 @@
-# Better Sever
+# Endstone Better Server Plugin
 
 Add some useless function
